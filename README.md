@@ -1,2 +1,2 @@
-# code-forces
-code forces problems solutions in python and c++
+# problem solving in python and c++
+ 
